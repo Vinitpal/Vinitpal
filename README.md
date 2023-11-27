@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Node.js and Backend**
 
-- 💬 Ask me about: **React.js**
+- 💬 Ask me about: **React.js/Next.js**
 
 - 📫 How to reach me: [click here](vinitpal91@outlook.com)
 
-- 📄 Know about [my experiences](https://drive.google.com/file/d/1tUhQ-aLUlmrPW3qsuz8GqB7ESMaehI60/view?usp=sharing)
+<!-- - 📄 Know about [my experiences](https://drive.google.com/file/d/1tUhQ-aLUlmrPW3qsuz8GqB7ESMaehI60/view?usp=sharing) -->
 
 - ⚡ Fun fact: **I wake up in middle of the night to fix my code 🤧**
 
