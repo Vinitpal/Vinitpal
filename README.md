@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinitpal Singh Arora</h1>
-<h3 align="center">A passionate frontend developer and anime geek from India</h3>
+<h3 align="center">A passionate frontend developer and problem solver from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinitpal&label=Profile%20views&color=0e75b6&style=flat" alt="vinitpal" /> </p>
 
