@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/vinitpal_arora" target="blank"><img src="https://img.shields.io/twitter/follow/vinitpal_arora?logo=twitter&style=for-the-badge" alt="vinitpal_arora" /></a> </p>
 
-- 🔭 I’m currently working on [Rowdy Store Backend](https://github.com/Vinitpal/Rowdy-Store)
+- 🔭 I’m currently working @ Proveway
 
-- 🌱 I’m currently learning **Node.js and Backend**
+- 🌱 I’m currently improving my fullstack skills
 
-- 💬 Ask me about: **React.js/Next.js**
+- 💬 Ask me about: **Remix/Next.js**
 
-- 📫 How to reach me: [click here](vinitpal91@outlook.com)
+- 📫 How to reach me: [click here](vs361017@gmail.com)
 
 <!-- - 📄 Know about [my experiences](https://drive.google.com/file/d/1tUhQ-aLUlmrPW3qsuz8GqB7ESMaehI60/view?usp=sharing) -->
 
